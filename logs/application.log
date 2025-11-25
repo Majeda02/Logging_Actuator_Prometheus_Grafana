@@ -1,0 +1,17 @@
+2025-11-26T00:12:11.658+01:00  INFO 9428 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplicationTests      : Starting Tp8MonitoringApplicationTests using Java 25 with PID 9428 (started by PC in C:\Users\PC\IdeaProjects\Cours Développement JakartaEE  Spring\TP15_JakartaEE)
+2025-11-26T00:12:11.670+01:00  INFO 9428 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2025-11-26T00:12:15.196+01:00  INFO 9428 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-26T00:12:15.349+01:00  INFO 9428 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplicationTests      : Started Tp8MonitoringApplicationTests in 4.236 seconds (process running for 6.331)
+2025-11-26T00:14:11.894+01:00  INFO 17932 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Starting Tp8MonitoringApplication using Java 25 with PID 17932 (C:\Users\PC\IdeaProjects\Cours Développement JakartaEE  Spring\TP15_JakartaEE\target\classes started by PC in C:\Users\PC\IdeaProjects\Cours Développement JakartaEE  Spring\TP15_JakartaEE)
+2025-11-26T00:14:11.905+01:00  INFO 17932 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-11-26T00:14:13.305+01:00  INFO 17932 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-11-26T00:14:13.324+01:00  INFO 17932 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-11-26T00:14:13.324+01:00  INFO 17932 --- [tp8-monitoring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-11-26T00:14:13.385+01:00  INFO 17932 --- [tp8-monitoring] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1399 ms
+2025-11-26T00:14:14.206+01:00  INFO 17932 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoints beneath base path '/actuator'
+2025-11-26T00:14:14.365+01:00  INFO 17932 --- [tp8-monitoring] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-11-26T00:14:14.379+01:00  INFO 17932 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplication           : Started Tp8MonitoringApplication in 3.081 seconds (process running for 3.731)
+2025-11-26T00:17:19.603+01:00  INFO 21944 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplicationTests      : Starting Tp8MonitoringApplicationTests using Java 25 with PID 21944 (started by PC in C:\Users\PC\IdeaProjects\Cours Développement JakartaEE  Spring\TP15_JakartaEE)
+2025-11-26T00:17:19.605+01:00  INFO 21944 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2025-11-26T00:17:22.215+01:00  INFO 21944 --- [tp8-monitoring] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 13 endpoints beneath base path '/actuator'
+2025-11-26T00:17:22.307+01:00  INFO 21944 --- [tp8-monitoring] [main] m.e.t.Tp8MonitoringApplicationTests      : Started Tp8MonitoringApplicationTests in 3.082 seconds (process running for 5.118)
