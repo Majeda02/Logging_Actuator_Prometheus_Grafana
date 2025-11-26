@@ -58,6 +58,8 @@ En combinant Actuator avec Prometheus (collecteur de métriques) et Grafana (out
 
 <img width="959" height="503" alt="Docker1TP15" src="https://github.com/user-attachments/assets/58059c14-f934-4dcf-afae-efd3d589ab65" />
 <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/1c937a7e-7037-4c2f-b597-ffa2f6f11838" />
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/4d65c3a6-5c4e-40c1-b748-85999492c102" />
+<img width="1400" height="1008" alt="image" src="https://github.com/user-attachments/assets/e1c53692-c675-4106-9760-361f8c3ef119" />
 
 
 
